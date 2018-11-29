@@ -1,3 +1,3 @@
 # CBILAB.Drone
 
-This library include face recognition algorithm.
+This library includes face recognition algorithm for "Person of Interest" cast.
